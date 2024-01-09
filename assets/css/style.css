@@ -1,0 +1,14 @@
+.fizzBuzzQuadrato{
+  display: flex;
+  margin: 5px
+}
+
+.numero {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
